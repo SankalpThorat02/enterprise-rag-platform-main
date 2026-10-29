@@ -2,19 +2,6 @@
 
 > Enterprise-grade AI platform for intelligent document search and contextual question answering using Retrieval-Augmented Generation (RAG), OpenAI, Redis Vector Search, Spring Boot, Python, and React.
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-Vector_Search-red?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-white?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📌 Overview
@@ -170,7 +157,7 @@ enterprise-rag-platform/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/enterprise-rag-platform.git
+git clone https://github.com/SankalpThorat02/enterprise-rag-platform-main.git
 cd enterprise-rag-platform
 ```
 
@@ -232,27 +219,6 @@ This project showcases:
 It is designed as a **portfolio-grade, recruiter-friendly, interview-ready project** for modern AI / GenAI engineering roles.
 
 ---
-
-# 👨‍💻 Author
-
-<div align="left">
-
-## Ram Paraselli
-
-
-<a href="https://www.linkedin.com/in/ram-paraselli" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Paraselli" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:ramjavadev18@gmail.com"><b>[ramjavadev18@gmail.com](mailto:ramjavadev18@gmail.com)</b></a>
-
-</div>
 
 ---
 
